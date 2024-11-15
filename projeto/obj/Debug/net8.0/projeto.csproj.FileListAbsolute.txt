@@ -1,0 +1,15 @@
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\bin\Debug\net8.0\projeto.exe
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\bin\Debug\net8.0\projeto.deps.json
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\bin\Debug\net8.0\projeto.dll
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\bin\Debug\net8.0\projeto.pdb
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.sourcelink.json
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.dll
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\refint\projeto.dll
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.pdb
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+D:\Arquivos D Ediva\Documentos\DEV\Csharp\progrmaTesteEstagio\projeto\obj\Debug\net8.0\ref\projeto.dll
