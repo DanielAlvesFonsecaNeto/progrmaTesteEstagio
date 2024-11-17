@@ -63,3 +63,10 @@ Para utilizar o arquivo `appsettings.json` no projeto, você precisa instalar os
     - Esses pacotes permitem que o projeto interprete o arquivo JSON.
 
 ---
+
+---
+
+Sera que devo usar  `Inno Setup` ou `NSIS`  para criar instalador ?
+Sera que devo usar  `Entity Framework Core (EF Core)`  para fazer ORM ?
+
+---
