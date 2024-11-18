@@ -70,3 +70,9 @@ Sera que devo usar  `Inno Setup` ou `NSIS`  para criar instalador ?
 Sera que devo usar  `Entity Framework Core (EF Core)`  para fazer ORM ?
 
 ---
+
+- Models/          # Classes que representam as tabelas (NotaFiscal, Item)
+- Controllers/     # Controladores (NotaFiscalController, ItemController)
+- Services/        # Camada de serviços (NotaFiscalService, ItemService)
+- Infrastructure/  # Código relacionado à infraestrutura (ConexaoBD, AppDbContext)
+- Data/            # Código de acesso a dados (repositórios ou DbContext)
